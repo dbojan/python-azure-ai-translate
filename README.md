@@ -10,7 +10,8 @@ More info here: https://github.com/dbojan/python-azure-ocr/
 
 
 https://learn.microsoft.com/en-us/azure/ai-services/translator/service-limits  
-Each translate request is limited to 50,000 characters, across all the target languages. For example, sending a translate request of 3,000 characters to translate to three different languages results in a request size of 3,000 × 3 = 9,000 characters and meets the request limit. You're charged per character, not by the number of requests, therefore, we recommend that you send shorter requests.
+Each translate request is limited to 50,000 characters, across all the target languages. For example, sending a translate request of 3,000 characters to translate to three different languages results in a request size of 3,000 × 3 = 9,000 characters and meets the request limit. You're charged per character, not by the number of requests, therefore, we recommend that you send shorter requests.  
+2 million characters S0 tier (monthly)
 
 
 ## create azure resource "Translator"
