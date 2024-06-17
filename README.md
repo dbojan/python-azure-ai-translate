@@ -1,5 +1,5 @@
 # python-azure-ai-translate
-2024-06-07-1  
+2024-06-17-1  
 
 Translate text using azure ai translate in python
 
